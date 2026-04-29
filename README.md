@@ -36,7 +36,7 @@
 - 🟢 **Laravel Starter Kits**  
   Security-focused PR aligning email verification across dashboard and settings routes.  
   → Merged into `main` and later synced across React, Vue, and Livewire starter kits  
-  🔗 PR: https://github.com/laravel/react-starter-kit/pull/224
+  🔗 PR Commit: [https://github.com/laravel/react-starter-kit/pull/224](https://github.com/laravel/react-starter-kit/commit/ef94fc24fd1603ee5bfc963ef1000656de8d1e4b)
 > I believe small, well-reasoned improvements can have large ecosystem impact.
 
 ---
